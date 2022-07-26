@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Yiyang Bian",
+    "occupation": "Case Western Reserve University",
+    "description": "Hi! Welcome to see my person blog! My name is Yiyang Bian, I'm studying in Computer Science of Case Western Reserve University. I'm a very friendly, open-minded person with a passion to learn and create efficient, creative, and impactful code than can not only solve problmes but satify users",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "I am currently pursuing a graduate degree in computer science, with a focus on data management and system control",
+    "contactmessage": "If you have anything that want to share with me, please send my email or text me!",
+    "email": "yxb227@case.edu && byy981109@gmail.com",
+    "phone": "216-354-5035",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "2330 South Overlook Rd",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "zip": "44106"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
